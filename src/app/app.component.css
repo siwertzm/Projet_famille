@@ -1,0 +1,29 @@
+.logo {
+    height: 80px;
+    width: auto;
+   
+}
+
+.navbar{
+    background-color: rgb(182, 188, 190);
+}
+
+
+
+footer{
+    background-color: rgb(41, 50, 53) !important;
+    color: rgb(182, 188, 190);
+}
+
+.dropdown-menu{
+    background-color: rgb(182, 188, 190);
+    margin-top: 40px;
+}
+
+.btn{
+    background-color: rgb(59, 181, 73) !important;
+}
+
+label{
+    text-decoration-color: black !important;
+}
